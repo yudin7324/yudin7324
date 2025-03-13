@@ -1,4 +1,4 @@
-### Ilya Yudin 🏕️  
+# Ilya Yudin 🏕️  
 
 Hi! I'm a **frontend developer** with over **five years of experience** in creating fast, scalable, and user-friendly web applications. My main stack includes **React**, **TypeScript**, and **JavaScript**, and I love building intuitive and efficient user interfaces.  
 
@@ -6,7 +6,7 @@ I have hands-on experience with **state management (Redux)**, **SCSS**, and UI l
 
 ---
 
-### 🔧 Languages and Tools
+## 🔧 Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -28,7 +28,7 @@ I have hands-on experience with **state management (Redux)**, **SCSS**, and UI l
 
 ---
 
-### 📫 Let's Connect
+## 📫 Let's Connect
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/elias7324)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yudin7324)
