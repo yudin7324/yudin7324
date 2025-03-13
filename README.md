@@ -1,5 +1,5 @@
-### I'm Ilya
-
+## Ilya Yudin 🏕️
+ 
 I'm a **frontend developer** with over five years of experience in building scalable and maintainable web applications. My main focus is on **React, TypeScript, and JavaScript**, with a strong background in UI development and performance optimization. 
 
 I have experience working with **state management (Redux)**, CSS preprocessors like **SCSS**, and UI libraries such as **Material-UI**. I also have hands-on experience with **Vue.js** and building custom UI components. Additionally, I work with **Next.js** for server-side rendering and static site generation. I enjoy working with **modern frontend architectures**, ensuring clean and efficient code.
