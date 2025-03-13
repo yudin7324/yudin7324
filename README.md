@@ -39,4 +39,6 @@ In addition to frontend development, I'm interested in **cybersecurity** and aut
 
 ---
 
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=yudin7324&theme=radical&no-frame=true&margin-w=15)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yudin7324&layout=compact&theme=radical)
