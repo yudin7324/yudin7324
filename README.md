@@ -4,7 +4,7 @@ I'm a **frontend developer** with over five years of experience in building scal
 
 I have experience working with **state management (Redux)**, CSS preprocessors like **SCSS**, and UI libraries such as **Material-UI**. I also have hands-on experience with **Vue.js** and building custom UI components. Additionally, I work with **Next.js** for server-side rendering and static site generation. I enjoy working with **modern frontend architectures**, ensuring clean and efficient code.
 
-In addition to frontend development, I'm interested in **cybersecurity**, automation, and investment strategies. Currently, I'm working on my **own SaaS project** while continuously improving my skill set.
+In addition to frontend development, I'm interested in **cybersecurity** and automation.
 
 ---
 
