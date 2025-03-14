@@ -2,8 +2,6 @@
 
 Hi! I'm a **frontend developer** with over **five years of experience** in creating fast, scalable, and user-friendly web applications. My main stack includes **React**, **TypeScript**, and **JavaScript**, and I love building intuitive and efficient user interfaces.  
 
-I have hands-on experience with **state management (Redux)**, **SCSS**, and UI libraries like **Material-UI**. I’ve also worked with **Vue.js** and enjoy crafting custom UI components. I use **Next.js** and keep up with modern frontend trends, always striving for clean and maintainable code.  
-
 ---
 
 ## 🔧 Languages and Tools
