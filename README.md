@@ -31,8 +31,6 @@ I have hands-on experience with **state management (Redux)**, **SCSS**, and UI l
 ## 📫 Let's Connect
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/elias7324)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yudin7324)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yudin2402@gmail.com)
 
 ---
 
