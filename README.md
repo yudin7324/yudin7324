@@ -23,6 +23,7 @@ I'm a **frontend developer** with over **five years of experience** in creating 
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-00B140?style=for-the-badge&logo=greensock&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
