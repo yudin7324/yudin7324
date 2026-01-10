@@ -27,10 +27,7 @@ I'm a **frontend developer** with over **five years of experience** in creating 
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's connect
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/elias7324)
 
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yudin7324&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
