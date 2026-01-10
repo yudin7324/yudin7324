@@ -33,4 +33,4 @@ I'm a **frontend developer** with over **five years of experience** in creating 
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yudin7324&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yudin7324&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
