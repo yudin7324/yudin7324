@@ -29,5 +29,5 @@ I'm a **frontend developer** with over **five years of experience** in creating 
 
 ## 📫 Let's connect
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/elias7324)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ydn_me)
 
