@@ -1,6 +1,8 @@
-# Ilya Yudin 🏕️  
+# Ilya Yudin 🏕️
 
-I'm a **frontend developer** with over **five years of experience** in creating fast, scalable, and user-friendly web applications. My main stack includes **React**, **TypeScript**, and **JavaScript**, and I love building intuitive and efficient user interfaces.  
+Frontend Developer with 5+ years of experience.  
+I work with React and TypeScript and care about clean, readable code.  
+Interested in performance optimization and building interfaces that not only look good, but are actually used. 
 
 ---
 
