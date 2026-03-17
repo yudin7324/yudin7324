@@ -26,6 +26,8 @@ I'm a **frontend developer** with over **five years of experience** in creating 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
+![https://www.codewars.com/users/IYDoe/badges/large]
+---
 
 ## 📫 Let's connect
 
