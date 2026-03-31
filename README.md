@@ -1,8 +1,10 @@
 # Ilya Yudin 🏕️
 
-Frontend Developer with 5+ years of experience.  
-I work with React and TypeScript and care about clean, readable code.  
-Interested in performance optimization and building interfaces that not only look good, but are actually used. 
+Frontend Engineer | Performance-Focused | Next.js • React • TypeScript
+
+5+ years building high-performance web applications.
+Specialization: Web Vitals optimization, Core Web Vitals, bundle optimization, and scalable UI architecture.
+Currently focusing on performance engineering and building production systems that are fast by default.
 
 ---
 
