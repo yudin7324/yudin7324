@@ -3,8 +3,6 @@
 Frontend Engineer | Performance-Focused | Next.js • React • TypeScript
 
 5+ years building high-performance web applications.
-Specialization: Web Vitals optimization, Core Web Vitals, bundle optimization, and scalable UI architecture.
-Currently focusing on performance engineering and building production systems that are fast by default.
 
 ---
 
