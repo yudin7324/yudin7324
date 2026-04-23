@@ -1,8 +1,8 @@
 # Ilya Yudin 🏕️
 
-Frontend Engineer | Performance-Focused | Next.js • React • TypeScript
+Frontend Developer | Performance-Focused | Next.js • React • TypeScript
 
-5+ years building high-performance web applications.
+4+ years building high-performance web applications.
 
 ---
 
