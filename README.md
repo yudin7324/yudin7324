@@ -28,8 +28,6 @@ Frontend Developer | Performance-Focused | Next.js • React • TypeScript
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-[![Codewars](https://www.codewars.com/users/Yudin7324/badges/large)](https://www.codewars.com/users/Yudin7324)
----
 
 ## 📫 Let's connect
 
